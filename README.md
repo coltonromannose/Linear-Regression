@@ -17,11 +17,17 @@ credit score)
 -Balance: The amount of each cardholder’s balance, in dollars
 
 # Steps
+
 -Generate summary statistics
+
 -Partition dataset into training and validation (50/50 split)
+
 -Create correlation matrix
+
 -Conduct multiple regresssion  (MR) using training df with Balance as outcome variable, using ALL other predictor variables
+
 -Conduct Variance Inflation Factor (VIF)
+
 -Conduct MR with training df, Balance as outcome variable, and Income, Rating, Age, Education, Student, Gender, and Married as predictor variables. 
 -MR conducted again but only with statistically significant predictor variables
 -Conduct FINAL MR using validation df with Balance as outcome variable and statistically significant variables
