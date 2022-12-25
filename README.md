@@ -6,23 +6,23 @@ I used a dataset which contains information from 310 credit card holders.  I con
 Variables: The variables I used for this analysis are:
 
 - Income: Annual income, in dollars
-- 
+
 - Limit: Credit limit for credit card, in USD dollars
-- 
+
 - Rating: A credit rating calculated by the credit card company. (Not the same as a typical 
 credit score)
 
--Age: Age in years
+- Age: Age in years
 
--Education: Number of years of education
+- Education: Number of years of education
 
--Student: Whether or not the cardholder is a student (No = 0, Yes = 1)
+- Student: Whether or not the cardholder is a student (No = 0, Yes = 1)
 
--Gender: The gender of the cardholder (Male = 0, Female = 1)
+- Gender: The gender of the cardholder (Male = 0, Female = 1)
 
--Married: Whether or not the cardholder is married (No = 0, Yes = 1)
+- Married: Whether or not the cardholder is married (No = 0, Yes = 1)
 
--Balance: The amount of each cardholder’s balance, in dollars
+- Balance: The amount of each cardholder’s balance, in dollars
 
 # Steps
 
